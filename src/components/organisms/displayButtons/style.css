@@ -1,0 +1,13 @@
+td button{
+    display: block;
+    margin: auto;
+}
+
+table{
+    table-layout: auto;
+    width: 60%; 
+}
+
+td b{
+    font-family: Arial, Helvetica, sans-serif;
+}

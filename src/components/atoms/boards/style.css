@@ -1,0 +1,7 @@
+.board{
+    box-shadow: 0px 0px 10px gray;
+    width: 90%;
+    padding-left: 2%;
+    padding-top: 1%;
+    margin: auto;
+}
